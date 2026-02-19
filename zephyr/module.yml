@@ -1,0 +1,4 @@
+name: CLine45
+build:
+  settings:
+    board_root: .

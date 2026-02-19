@@ -1,0 +1,5 @@
+config SHIELD_CLINE46_R
+    def_bool $(shields_list_contains,CLine46_R)
+
+config SHIELD_CLINE46_L
+    def_bool $(shields_list_contains,CLine46_L)
